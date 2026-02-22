@@ -10,7 +10,7 @@ class TestRoman(unittest.TestCase):
         try:
             self.assertEqual(Solution.romanToInt(test1), 3)
             print(f"test {test1} PASS")
-            self.assertEqual(Solution.romanToInt(test2), 55)
+            self.assertEqual(Solution.romanToInt(test2), 58)
             print(f"test {test2} PASS")
             self.assertEqual(Solution.romanToInt(test3), 1994)
             print(f"test {test3} PASS")
