@@ -4,3 +4,4 @@
 - [isValidInput](https://github.com/ThisIsHegazi/leetcode_problems/tree/main/IsValidInput)
 - [longesCommonPrefix](https://github.com/ThisIsHegazi/leetcode_problems/tree/main/longestCommonPrefix)
 - [mergeTwoLinkedLists](https://github.com/ThisIsHegazi/leetcode_problems/tree/main/mergeTwoLinkedLists)
+- [RemoveDuplicatesFromSortedArray](https://github.com/ThisIsHegazi/leetcode_problems/tree/main/RemoveDuplicatesFromSortedArray)
