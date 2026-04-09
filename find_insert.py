@@ -14,3 +14,6 @@ class Solution:
                 low = midpoint + 1
             else:
                 high = midpoint - 1
+
+
+# https://leetcode.com/problems/search-insert-position/description/
